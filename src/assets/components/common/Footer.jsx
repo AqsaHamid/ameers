@@ -1,11 +1,7 @@
-//ye le hamri kr kamm
+
 
 import React from "react";
-/*import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebook, faInstagram, faThreads } from "@fortawesome/free-brands-svg-icons";
-import { faLocationDot, faPhone, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
-*/
 const Footer = () => {
     return (
         <footer className="footer">
